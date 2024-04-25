@@ -1,8 +1,17 @@
-# React + Vite
+# Project Description
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Authentication/Login is required to access the page. Users have the ability to:
 
-Currently, two official plugins are available:
+- Navigate and view various books, comics, or manga.
+- Leave a review or delete a review they made.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+In addition to the mentioned above, the admin can:
+
+- Delete any review.
+- Navigate to the Admin Panel to add, delete, or modify information about a book, comic, or manga.
+
+---
+
+The project utilizes JavaScript with React, and Firebase serves as the database.
