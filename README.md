@@ -1,4 +1,5 @@
-# Project Description
+# Anime, Manga and Comics Reviews
+## Project Description
 
 Authentication/Login is required to access the page. Users have the ability to:
 
